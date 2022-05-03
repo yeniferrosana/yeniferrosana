@@ -27,3 +27,4 @@ jobs:
           base: header, activity, community, repositories
           config_display: large
           config_padding: 0, 3%
+          plugin_traffic: yes
