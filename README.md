@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **yeniferrosana/yeniferrosana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](/bigass.svg)
-<img src="/bigass.svg.svg" alt="Metrics" width="100%">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Yenifer%20Ramírez-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yeniferrosana/)](https://www.linkedin.com/in/yeniferrosana/) [![Twitter Badge](http://img.shields.io/badge/-@yeniferrosana-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/yeniferrosana)](https://twitter.com/yeniferrosana) [![GitHub followers](https://img.shields.io/github/followers/yeniferrosana?label=Follow&style=social)](https://github.com/yeniferrosana/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-email@yeniferramirez11-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@yeniferramirez11)](mailto:yeniferramirez11@gmail.com)
