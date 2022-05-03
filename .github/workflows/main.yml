@@ -25,6 +25,8 @@ jobs:
           user: yeniferrosana
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
+          config_padding: 0, 3%
           plugin_languages: yes
           plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
