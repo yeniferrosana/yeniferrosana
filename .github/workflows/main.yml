@@ -18,8 +18,8 @@ jobs:
           filename: bigass.svg
           
           # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: yeniferrosana
