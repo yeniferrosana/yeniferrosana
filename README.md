@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Metrics](/bigass.svg)
 
 <p align="center">
-I am a Systems Engineer, I have developed applications and websites with Javascript, Python and PHP. In these projects I varied between the roles of Frontend, Backend, QA and Scrum Master, I also have 10 years of experience in the IT support area which have helped me expand my knowledge, improve my attitudes in team and work under pressure.
+I am a Systems Engineer and SEO & SEM Specialist. Additionally, I have developed applications and websites using JavaScript, Python, and PHP. In these projects, I’ve taken on various roles, including Frontend, Backend, QA, and Scrum Master. With over 10 years of experience in IT support, I’ve expanded my technical knowledge, strengthene my teamwork skills, and learned to perform effectively under pressure.
 </p>
 
 <div align="center">
